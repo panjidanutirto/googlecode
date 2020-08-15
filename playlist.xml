@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:jwplayer="http://rss.jwpcdn.com/">
+	<channel>
+		<title>Example media RSS playlist for the JW Player</title>
+
+		<item>
+			<title>Swinging in L.A.</title>
+			<jwplayer:provider>video</jwplayer:provider>
+			<description>Venice Beach and Malibu beach. Shoot handheld and Color corrected. by Giuseppe Vetrano</description>
+			<media:credit role="author">Giuseppe Vetrano</media:credit>
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/swinging_in_la_360p.mp4" label="360p" />
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/swinging_in_la_480p.mp4" label="480p" default="true"/>
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/swinging_in_la_720p.mp4" label="1280p" />
+			<media:thumbnail url="https://www.joomlarulez.com/images/stories/video/swinging_in_la.jpg" />
+			<jwplayer:track file="https://www.joomlarulez.com/images/stories/video/swinging_in_la_720p.vtt" kind="thumbnails" />
+		</item>
+
+		<item>
+			<title>Alone in New York</title>
+			<jwplayer:provider>video</jwplayer:provider>
+			<description>The Big apple seen in from an emotional point of view. Shoot with Canon 7d, 17-55 2.8 zoom lens and all handheld. by Giuseppe Vetrano</description>
+			<media:credit role="author">Giuseppe Vetrano</media:credit>
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/alone_in_ny_320p.mp4" label="320p" />
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/alone_in_ny_480p.mp4" label="480p" default="true" />
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/alone_in_ny_720p.mp4" label="720p" />
+			<media:thumbnail url="https://www.joomlarulez.com/images/stories/video/alone_in_ny.jpg" />
+			<jwplayer:track file="https://www.joomlarulez.com/images/stories/video/alone_in_ny_720p.vtt" kind="thumbnails" />
+		</item>
+		
+		<item>
+			<title>Sintel</title>
+			<jwplayer:provider>video</jwplayer:provider>
+			<description>Sintel is an independently produced short film, initiated by the Blender Foundation as a means to further improve and validate the free-open source 3D creation suite Blender.</description>
+			<media:credit role="author">the Peach Open Movie Project</media:credit>
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/sintel_trailer_480p.mp4" label="360p" />
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/sintel_trailer_480p.mp4" label="480p" default="true" />
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/sintel_trailer_720p.mp4" label="1280p" />
+			<media:thumbnail url="https://www.joomlarulez.com/images/stories/video/sintel-gaping.png" />
+			<jwplayer:track file="https://www.joomlarulez.com/images/stories/video/sintel_trailer_720p.vtt" kind="thumbnails" />
+		</item>
+		
+		<item>
+			<title>Shuttle Launch</title>
+			<jwplayer:provider>video</jwplayer:provider>
+			<description>Atlantis Launches to the International Space Station. The STS-132 crew will deliver the Russian Mini Research Module, or Rassvet, and perform three spacewalks at the orbital outpost.</description>
+			<media:credit role="author">NASA</media:credit>
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/sts132_launch_360p.mp4" label="360p" />
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/sts132_launch_480p.mp4" label="480p" default="true" />
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/sts132_launch_720p.mp4" label="1024p" />
+			<media:thumbnail url="https://www.joomlarulez.com/images/stories/video/sts132_launch.jpg" />
+			<jwplayer:track file="https://www.joomlarulez.com/images/stories/video/sts132_launch_720p.vtt" kind="thumbnails" />
+		</item>
+		
+		<item>
+			<title>Big Buck Bunny</title>
+			<jwplayer:provider>video</jwplayer:provider>
+			<description>Big Buck Bunny is a short animated film by the Blender Institute, part of the Blender Foundation. Like the foundations previous film Elephants Dream, the film is made using free and open source software.</description>
+			<media:credit role="author">the Peach Open Movie Project</media:credit>
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/bigbuckbunny_360p.mp4" label="360p" />
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/bigbuckbunny_480p.mp4" label="480p" default="true" />
+			<jwplayer:source file="https://www.joomlarulez.com/images/stories/video/bigbuckbunny_720p.mp4" label="1024p" />
+			<media:thumbnail url="https://www.joomlarulez.com/images/stories/video/bunny.jpg" />
+			<jwplayer:track file="https://www.joomlarulez.com/images/stories/video/bigbuckbunny_720p.vtt" kind="thumbnails" />
+			<jwplayer:track file="https://127.0.0.1/joomlarulez/images/stories/video/bigbuckbunny_chapters.vtt" kind="chapters" />
+		</item>
+
+	</channel>
+</rss>
